@@ -28,7 +28,7 @@ HEADERS_POST = {
     'Connection': 'keep-alive',
     'Upgrade-Insecure-Requests': '1',
 }
-
+#cookies
 COOKIES = {
     '_ga': 'GA1.3.1249240305.157987300',
     'ASP.NET_SessionId': 'nwj55n55l3krnj55eo5bg145',
